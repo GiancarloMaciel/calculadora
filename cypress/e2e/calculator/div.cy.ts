@@ -122,3 +122,5 @@ describe("Calculos Básicos - Divisão", () => {
     cy.get('[data-cy="display-container"]').should("have.text", "10");
   });
 });
+
+
